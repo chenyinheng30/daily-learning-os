@@ -1,9 +1,3 @@
-# Learning OS Daily
-
-## 七月
-
-* [Day1 2022-10-31](#day-1)
-
 ## Day 1
 
 ### 计划
